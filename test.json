@@ -1,0 +1,163 @@
+{
+    "default": {
+        "rankedList": [
+            {
+                "rankedKeyword": [
+                    {
+                        "topic": {
+                            "mid": "/m/01yrx",
+                            "title": "Cat",
+                            "type": "Animal"
+                        },
+                        "value": 100,
+                        "formattedValue": "100",
+                        "hasData": true,
+                        "link": "/trends/explore?q=/m/01yrx&date=2022-08-15+2023-02-15"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/01nlxs",
+                            "title": "Breed",
+                            "type": "Organism classification rank"
+                        },
+                        "value": 95,
+                        "formattedValue": "95",
+                        "hasData": true,
+                        "link": "/trends/explore?q=/m/01nlxs&date=2022-08-15+2023-02-15"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/0h06f",
+                            "title": "Cat Breed",
+                            "type": "Topic"
+                        },
+                        "value": 31,
+                        "formattedValue": "31",
+                        "hasData": true,
+                        "link": "/trends/explore?q=/m/0h06f&date=2022-08-15+2023-02-15"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/0jbk",
+                            "title": "Animal",
+                            "type": "Topic"
+                        },
+                        "value": 28,
+                        "formattedValue": "28",
+                        "hasData": true,
+                        "link": "/trends/explore?q=/m/0jbk&date=2022-08-15+2023-02-15"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/0bt9lr",
+                            "title": "Dog",
+                            "type": "Animal"
+                        },
+                        "value": 28,
+                        "formattedValue": "28",
+                        "hasData": true,
+                        "link": "/trends/explore?q=/m/0bt9lr&date=2022-08-15+2023-02-15"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/019sc",
+                            "title": "Black",
+                            "type": "Color"
+                        },
+                        "value": 12,
+                        "formattedValue": "12",
+                        "hasData": true,
+                        "link": "/trends/explore?q=/m/019sc&date=2022-08-15+2023-02-15"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/09nm_",
+                            "title": "World",
+                            "type": "Topic"
+                        },
+                        "value": 11,
+                        "formattedValue": "11",
+                        "hasData": true,
+                        "link": "/trends/explore?q=/m/09nm_&date=2022-08-15+2023-02-15"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/03s26",
+                            "title": "Individual",
+                            "type": "Topic"
+                        },
+                        "value": 8,
+                        "formattedValue": "8",
+                        "hasData": true,
+                        "link": "/trends/explore?q=/m/03s26&date=2022-08-15+2023-02-15"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/0hjzp",
+                            "title": "Kitten",
+                            "type": "Topic"
+                        },
+                        "value": 8,
+                        "formattedValue": "8",
+                        "hasData": true,
+                        "link": "/trends/explore?q=/m/0hjzp&date=2022-08-15+2023-02-15"
+                    }
+                ]
+            },
+            {
+                "rankedKeyword": [
+                    {
+                        "topic": {
+                            "mid": "/m/019sc",
+                            "title": "Black",
+                            "type": "Color"
+                        },
+                        "value": 1055550,
+                        "formattedValue": "Breakout",
+                        "link": "/trends/explore?q=/m/019sc&date=2022-08-15+2023-02-15"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/0jbk",
+                            "title": "Animal",
+                            "type": "Topic"
+                        },
+                        "value": 160,
+                        "formattedValue": "+160%",
+                        "link": "/trends/explore?q=/m/0jbk&date=2022-08-15+2023-02-15"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/09nm_",
+                            "title": "World",
+                            "type": "Topic"
+                        },
+                        "value": 90,
+                        "formattedValue": "+90%",
+                        "link": "/trends/explore?q=/m/09nm_&date=2022-08-15+2023-02-15"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/0h06f",
+                            "title": "Cat Breed",
+                            "type": "Topic"
+                        },
+                        "value": 70,
+                        "formattedValue": "+70%",
+                        "link": "/trends/explore?q=/m/0h06f&date=2022-08-15+2023-02-15"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/0bt9lr",
+                            "title": "Dog",
+                            "type": "Animal"
+                        },
+                        "value": 50,
+                        "formattedValue": "+50%",
+                        "link": "/trends/explore?q=/m/0bt9lr&date=2022-08-15+2023-02-15"
+                    }
+                ]
+            }
+        ]
+    }
+}
